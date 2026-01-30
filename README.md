@@ -23,3 +23,13 @@ Task 8: CLV Analysis
 https://docs.google.com/spreadsheets/d/1RxzYlsI-jeSW6J0bmdAdc5c4jTscktxlxR9UQ5wJ7dU/edit?usp=sharing
 
 Task 9: A/B Testing Analysis (pdf attached)
+
+Task 10: Hands-on tic-tac-toe
+A working Tic-Tac-Toe game via python.
+
+https://colab.research.google.com/github/DBabis911/Portfolio/blob/main/Tic_Tac_Toe.ipynb
+
+Press "Play" in google.colab.
+The system will ask if you wanna play X or O.
+Select your symbol, then select ROW and COLLUMN where you want to place your piece.
+Continue until WIN/LOSS/DRAW
