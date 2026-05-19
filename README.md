@@ -33,3 +33,19 @@ Press "Play" in google.colab.
 The system will ask if you wanna play X or O.
 Select your symbol, then select ROW and COLLUMN where you want to place your piece.
 Continue until WIN/LOSS/DRAW
+
+TASK 11: Python practical graded task will require you to implement a Python program that will answer a simple question – given a board state that the user enters, with 1 white figure and up to 16 black figures, which black figures can the white figure take?
+
+https://colab.research.google.com/drive/1FCgpfRMZbUjsuBf-bPKJBX5D_8LKa7oP?usp=sharing
+
+Run the program and follow instructions:
+1. Select a white piece (Rook / Bishop / Queen) along with its position
+2. Select up to 16 Black pieces with their positions
+3. Program will tell, which pieces can be taken by your selected "White Piece"
+
+TASK 12: Regression: Cardiovascular Disease Prediction
+
+https://colab.research.google.com/drive/1YR17fOCVJ210aX7Wl1K0LQDW4D1HMd11?usp=sharing
+
+Cardiovascular Risk Prediction – Framingham Study
+EDA along with a Python regression model, that predicts **Coronary Heart Disease** from the given dataset.
